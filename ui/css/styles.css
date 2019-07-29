@@ -1,0 +1,81 @@
+/* STYLE FOR HOME PAGE */
+
+type ="text/css">
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+  #wrap {
+     width:900px;
+     margin:0 auto;
+  }
+  #left_col {
+     float:left;
+     width:500px;
+  }
+  #right_col {
+     float:right;
+     width:300px;
+  }
+
+  /* STYLE FOR PROFILE PAGE */
+
+  type="text/css">
+  body{}
+  table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+  }
+    #wrap {
+       width:900px;
+       margin:0 auto;
+    }
+    #left_col {
+       float:left;
+       width:400px;
+       
+    }
+    #right_col {
+       float:right;
+       width:400px;
+    }
+
+
+    /* STYLES FOR ADMIN PAGE */
+ 
+ type ="text/css">
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+  #wrap {
+     width:800px;
+     margin:0 auto;
+  }
+
+ 
+
